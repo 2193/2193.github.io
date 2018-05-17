@@ -413,6 +413,9 @@ Version: 1.2
 	background-size: 100%;
 	position: relative;
 }
+.isotop-active .col-xs-12{
+	padding: 0
+}
 .sufia-slider .single-slider:before{
 	content:"";
 	position:absolute;
