@@ -108,7 +108,7 @@ select:active {
 }
 .section-title p {
 	color: #888;
-	padding: 0 190px;
+	/*padding: 0 190px;*/
 	font-size: 15px;
 }
 .button .btn{
