@@ -408,7 +408,7 @@ Version: 1.2
 	Slider Style
 ===============================*/
 .sufia-slider .single-slider {
-	height: 200px;
+	min-height: 180px;
 	background-image: url(img/hero-bg.jpg);
 	background-size: 100%;
 	position: relative;
