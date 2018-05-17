@@ -2694,6 +2694,10 @@ overflow:hidden;
 .footer.style2 .social li.active a{
     color: #fff
 }
+.features {
+	padding-top:30px;
+	padding-bottom: 10px
+}
 /*------ Copyright -----*/
 .footer .copyright {
 	padding: 12px 0;
